@@ -1,0 +1,31 @@
+body{
+    background-image: url(./8.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* conta 1 */
+.d-flex .nav-link i{
+    font-size: 20px;
+}
+
+.conta1 img{
+    border-radius: 150px;
+    margin-top: 110px !important;
+}
+
+.conta1 .p{
+    margin-top: 80px !important;
+}
+/* conta 2 */
+.conta2 .inner{
+    overflow: hidden;
+}
+
+
+.card-title{
+    text:white;
+    color: white;
+}
+
+
+
